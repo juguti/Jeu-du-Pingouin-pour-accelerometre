@@ -1,0 +1,13 @@
+WIDTH = 1080
+HEIGHT = 720
+FPS = 60
+MAX_ANGLE = 70
+WHITE = (255, 255, 255)
+
+
+MOY = 2
+
+G = 0.2
+
+M = 0.2
+MU = 0.02
